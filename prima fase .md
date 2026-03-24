@@ -1,4 +1,4 @@
-# 🍓 Raspberry Pi — From USB Boot to Remote Desktop on Windows
+# 🍓 Raspberry Pi — configurazione raspberry_pi & controllo da pc (stessa rete)
 
 > **Environment:** Raspberry Pi 4/5 · Debian GNU/Linux 13 (Trixie) · Kernel 6.12.x (arm64)
 > **Last updated:** March 2026
