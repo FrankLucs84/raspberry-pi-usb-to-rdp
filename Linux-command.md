@@ -1,15 +1,3 @@
-Perfetto 💪 ti preparo un **file Markdown pulito, completo e professionale**, focalizzato proprio su:
-
-* servizi (`systemctl`)
-* rete (`ip`, `ss`)
-* debug
-* XRDP
-* Tailscale
-* comandi usati nel tuo progetto
-
-Pronto da mettere in `docs/linux-command-cheatsheet.md`.
-
----
 
 ````markdown
 # 🐧 Linux Command Cheat Sheet (Raspberry Pi / Home Server)
