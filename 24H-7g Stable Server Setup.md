@@ -50,7 +50,7 @@ ip route
 Expected output:
 
 ```text
-default via 192.168.50.1 dev wlan0
+default via 192.168.x.x dev wlan0
 ```
 
 ---
